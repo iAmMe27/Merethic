@@ -26,9 +26,13 @@ First things first: **this list contains adult content and you must be of legal 
   - [Install Creation Kit](#install-creation-kit)
   - [Start Skyrim SE](#start-skyrim-se)
   - [Manually download non-Nexus mods](#manually-download-non-nexus-mods)
-- [Installation of the Modlist](#installation-of-the-modlist)
-  - [Commonly Failing Downloads](#commonly-failing-downloads)
-  - [Other Installation Issues](#other-installation-issues)
+- [Install Merethic in Wabbajack](#install-merethic-in-wabbajack)
+  - [Select the Modlist](#select-the-modlist)
+  - [Select Installation \& Download Folders](#select-installation--download-folders)
+    - [Installation Folder \[1\]](#installation-folder-1)
+    - [Download Folder \[2\]](#download-folder-2)
+    - [Starting the Installation \[3\]](#starting-the-installation-3)
+  - [Installation is finished](#installation-is-finished)
 - [Post-Installation](#post-installation)
   - [Creating a desktop shortcut](#creating-a-desktop-shortcut)
 - [Mod Setup](#mod-setup)
@@ -204,25 +208,61 @@ It is required that you download all non-Nexus mods in your browser prior to run
 > [!CAUTION]
 > Currently, downloading Loverslab mods through wabbajack does not work. Even though it shows the mod page and you can click the download button, it will not pass the file check at the end and Wabbajack will throw an error. Don't skip this step, even if you successfully downloaded LL mods through wabbajack in the past.
 
-# Installation of the Modlist
+# Install Merethic in Wabbajack
 Installing the list is straight forward, Wabbajack will do most of the heavy lifting for you - you only have to tell it where to put stuff.
 
-Set the installation location to a folder on the root of a drive, something like `C:\Merethic`. Do not install it to one of the protected folders as mentioned earlier. The download location will have likely been filled in for you too - ensure it matches the directory you set for the installation location, or if you have multiple Skyrim modlists installed, use a common download folder - this will stop you from having to redownload common mods across multiple modlists.
+## Select the Modlist
+Open Wabbajack.  
+Always open Wabbajack with the Wabbajack Launcher.exe instead of the wabbajack.exe directly, to make sure you're always using the latest version.
 
->[!TIP]
->**I recommend you keep your downloads outside of the Merethic installation folder!** 
+- Click on "Browse lists"
+![Image](/img/wj_install_1.png)
+
+- In the next window, make sure the "NSFW" and "Non-featured" toggles are **__toggled ON__**, and search for the name of the modlist.  
+Once it shows up on the right, click on it.
+![Image](/img/wj_install_2.png)
+
+- Once the detailed view is open, click "Download & Install".
+![Image](/img/wj_install_3.png)
+
+## Select Installation & Download Folders
+![Image](/img/wj_install_4.png)
+
+### Installation Folder [1]
+This folder is where the modlist will be **__installed in__**.  
+Set the installation location to a folder on the root of a drive, something like `C:\Merethic`.  
+
+> [!CAUTION]
+> Do not install Merethic to your game folder or in any protected folders such as your Documents or Program Files.
+
+### Download Folder [2] 
+This folder is where the downloaded mods will be stored.  
+The **Non-Nexus mods** you downloaded in the last step **go here**.
+
+> [!TIP]
+> If you want to save space on your fast SSD, this folder can be stored on slower drives, even an HDD.  
+> We suggest you keep your downloads and don't delete them after, so if you want to update or reinstall the list, you don't have to download everything all over again.
+
+### Starting the Installation [3]
+Once you have set your folders, hit **GO** and let it do its thing.
+
+> [!CAUTION]
+> Once you click "Install", there is no going back, the installation will start.
 >
->It's best if you use a common folder for all of your Skyrim modlist downloads, to save repeatedly downloading the same mods over and over again.
+> Therefore, make **DOUBLE SURE** you have set your Download and Installation folder correctly.  
+> Upon start of the installation, your Installation folder **WILL BE EMPTIED**.  
+> So if you have them the wrong way around, Wabbajack can **and will DELETE ALL YOUR DOWNLOADS**!
+>
+> You have been warned.
 
-## Commonly Failing Downloads
-Downloads from non-Nexus file hosts often refuse to download automatically via Wabbajack for reasons. 
+## Installation is finished
+Once the install is finished, you will see the following screen.  
+Click "Open in File Explorer" to open your installation folder and start ModOrganizer.exe in there, then continue to the next step.
 
-[All known problematic downloads are listed here.](https://github.com/iAmMe27/Merethic/wiki)
+If your screen does not like this (especially if you have a red box with an error on the lower left), have a look at our [Common Issues](CommonIssues.md) page. 
 
-Download these files and place them *as they are* into the Resource Download folder.
+![Image](/img/wj_install_5.png)
 
-## Other Installation Issues
-[See here for a whole list of common issues and their solutions](CommonIssues.md)
 
 # Post-Installation
 After Wabbajack has given you the installation successful screen, you're free to close it. Navigate to the Merethic installation folder and run MO2 by double-clicking `ModOrganizer.exe`.
