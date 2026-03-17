@@ -45,7 +45,7 @@ Merethic is a NSFW Skyrim modlist that aims to improve and add upon the Skyrim e
 # Quick Links
 :arrow_down: [All Manual Downloads](https://github.com/iAmMe27/Merethic/wiki)
 
-:file_folder: [Known Problematic Downloads](https://github.com/iAmMe27/Merethic/wiki/Known-Commonly-Failing-Downloads)
+:file_folder: [Manual Downloads](https://github.com/iAmMe27/Merethic/wiki/)
 
 :exclamation: [Common Issues](CommonIssues.md)
 
