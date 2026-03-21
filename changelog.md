@@ -1202,3 +1202,12 @@ None
 - Removed [Sounds of Skyrim Complete SE v2.1](https://www.nexusmods.com/skyrimspecialedition/mods/8286)
 - Removed [ECE Sliders Addon for Racemenu v2.3](https://www.nexusmods.com/skyrimspecialedition/mods/75686)
 - Removed [Ryn's Farms AIO - Landscape and Water Fixes v1.00](https://www.nexusmods.com/skyrimspecialedition/mods/72747)
+
+## Merethic v1.5.1
+1. Fixed MCM recorder errors
+2. Fixed a couple of NPC outfits
+3. Added PPA Custom Sound V2
+4. Added Particle Wind
+
+## Merethic v1.5.2
+1. Replaced the ZaZ Animation Pack with an alternative as the version we were using was removed.
