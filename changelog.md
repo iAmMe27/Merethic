@@ -1211,3 +1211,7 @@ None
 
 ## Merethic v1.5.2
 1. Replaced the ZaZ Animation Pack with an alternative as the version we were using was removed.
+
+## Merethic v1.5.3
+1. Added RaceMenu Overlay Fix and Various Mod Fixes
+2. Updated More Nasty Critters to v16.1Bs
