@@ -1214,4 +1214,14 @@ None
 
 ## Merethic v1.5.3
 1. Added RaceMenu Overlay Fix and Various Mod Fixes
-2. Updated More Nasty Critters to v16.1Bs
+2. Updated More Nasty Critters to v16.1B
+
+## Merethic v1.5.4
+1. Updated More Nasty Critters to v16.1C
+
+## Merethic v1.5.5
+1. Updated More Nasty Critters to v16.1E
+2. Updated More Amulets and Rings to v0.0.6
+   i. This should resolve Vampire/Werewolf transformation crashes+
+3. Updated Dint HairPack02 to v1.12
+4. Added more HIMBO bodyslides (finally!)
