@@ -1222,6 +1222,10 @@ None
 ## Merethic v1.5.5
 1. Updated More Nasty Critters to v16.1E
 2. Updated More Amulets and Rings to v0.0.6
-   i. This should resolve Vampire/Werewolf transformation crashes+
+   i. This should resolve Vampire/Werewolf transformation crashes
 3. Updated Dint HairPack02 to v1.12
 4. Added more HIMBO bodyslides (finally!)
+
+## Merethic v1.5.6
+1. Updated Creature Framework to v4.0
+2. Updated More Nasty Critters to v16.1F
