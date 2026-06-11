@@ -104,3 +104,84 @@ There may also be other methods of gaining insight but these are rare across the
 
 ### Bathing
 As of Merethic v1.3, we have Bathing in Skyrim. Over time, you will get dirty which will give you minor debuffs. You need to bathe and can do so if you have soap of some kind and a deep enough body of water *or* ask at any inn to use their bath. Some player homes will also come with their own private baths.
+
+## Standing Stones
+Merethic uses a custom made standing stone mod, Solstice. Details of the different effects that the stones have now are below.
+
+<details>
+    <summary>The Thief Stone</summary>
+
+    Picking locks and pickpocketing are both 10% easier.
+</details>
+
+<details>
+    <summary>The Mage Stone</summary>
+    
+    All Mage skills are 10% more effective.
+</details>
+
+<details>
+    <summary>The Warrior Stone</summary>
+    
+    All Warrior skills are 10% more effective.
+</details>
+
+<details>
+    <summary>The Apprentice Stone</summary>
+    
+    Magicka regenerates twice as fast but you are 30% weaker to magic.
+</details>
+
+<details>
+    <summary>The Atronach Stone</summary>
+    
+    +100 points of Magicka, absorb 50% of spells but Magicka regens 25% slower.
+</details>
+
+<details>
+    <summary>The Lady Stone</summary>
+    
+    Health and Stamina regenerate twice as fast.
+</details>
+
+<details>
+    <summary>The Lord Stone</summary>
+    
+    Armor is increased by 75 points and magic resistance is increased by 25%.
+</details>
+
+<details>
+    <summary>The Lover Stone</summary>
+    
+    +15 to Speech.
+</details>
+
+<details>
+    <summary>The Steed Stone</summary>
+    
+    Move 15% faster and gain 50 point bonus to carry weight.
+</details>
+
+<details>
+    <summary>The Serpent Stone</summary>
+    
+    Imbues a magicl rot into your enemies, reducing their armor by 100 points and causing a 50% weakness to poison.
+</details>
+
+<details>
+    <summary>The Tower Stone</summary>
+    
+    Unlock any lock up to Expert level once per day. Chests and barrels unlocked this way contain extra gold.
+</details>
+
+<details>
+    <summary>The Ritual Stone</summary>
+    
+    Reanimates the dead around you for 300 seconds, to fight for you.
+</details>
+
+<details>
+    <summary>The Shadow Stone</summary>
+    
+    Sneak movement is 30% faster and stealth attacks are 15% stronger.
+</details>
