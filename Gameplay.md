@@ -165,7 +165,7 @@ Merethic uses a custom made standing stone mod, Solstice. Details of the differe
 <details>
     <summary>The Serpent Stone</summary>
     
-    Imbues a magicl rot into your enemies, reducing their armor by 100 points and causing a 50% weakness to poison.
+    Imbues a magical rot into your enemies, reducing their armor by 100 points and causing a 50% weakness to poison.
 </details>
 
 <details>
