@@ -1229,3 +1229,11 @@ None
 ## Merethic v1.5.6
 1. Updated Creature Framework to v4.0
 2. Updated More Nasty Critters to v16.1F
+
+## Merethic v1.5.7
+1. Updated Billyy Animations to v10.4
+2. Updated Billyy Animations for P+ Users to v10.4
+3. Removed Multiple Amulets and Rings (MARA)
+4. Removed I4 for MARA
+5. Added My Precious...es - Multiple Rings SKSE
+6. My Precious...es - Multiple Rings SKSE - MCM Addon
