@@ -1237,3 +1237,19 @@ None
 4. Removed I4 for MARA
 5. Added My Precious...es - Multiple Rings SKSE
 6. My Precious...es - Multiple Rings SKSE - MCM Addon
+
+## Merethic v1.5.8
+1. Updated Fill Her Up Baka Edition to v2.10
+2. Updated More Nasty Critters to v16.2
+3. Updated Billyy's SLAL Animations to v10.5 SE
+   1. Plus matching P+ patch
+4. Added Caenarvon Glasses Pack Vol2
+5. Added Caenarvon Glasses Pack Vol2 - ENB Complex Material Patch
+6. Added [Dint999] BDOR Hair Addon
+7. Added Praedyth's Wearable Horns for RaceMenu
+8. Added Wayward Knight Set
+9. Added Kinnari Armor
+10. Added Amsedillir - BloodLine
+11. Added Volkihar Assassin Outfit
+12. Added ELLE - Delicate Zhuque
+13. Added some more body presets because it'd be rude not to :^)
