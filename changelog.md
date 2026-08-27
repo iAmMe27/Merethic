@@ -1253,3 +1253,14 @@ None
 11. Added Volkihar Assassin Outfit
 12. Added ELLE - Delicate Zhuque
 13. Added some more body presets because it'd be rude not to :^)
+
+## Merethic v1.5.8.1
+1. No content changed, recompiled against the v1.7.99 Skyrim update
+
+## Merethic v1.5.8.2
+1. Fixed the broken shaders introduced with v1.5.8.1 by rolling back the `Skyrim - Shaders.bsa` archive
+
+## Merethic v1.5.8.3
+1. Compiled against Skyrim v1.7.104
+1. Added an MO2 plugin that prevents the `contentcatalog.txt` related crashes some people get
+2. Updated the SexLab Framework download to v1.66c - *Wabbajack will downgrade the installed version to v1.66b upon installation*
