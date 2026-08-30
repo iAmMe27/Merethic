@@ -1264,3 +1264,6 @@ None
 1. Compiled against Skyrim v1.7.104
 1. Added an MO2 plugin that prevents the `contentcatalog.txt` related crashes some people get
 2. Updated the SexLab Framework download to v1.66c - *Wabbajack will downgrade the installed version to v1.66b upon installation*
+
+## Merethic v1.5.8.4
+1. Updated download from SexLab Framework to v1.66d - *Wabbajack will downgrade the installed version to v1.66b upon installation*
